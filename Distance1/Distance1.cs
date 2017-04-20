@@ -10,6 +10,7 @@ namespace Distance1
     {
         static void Main(string[] args)
         {
+            //tuka probvam ne6to
             var speed = int.Parse(Console.ReadLine());
             var t1 = int.Parse(Console.ReadLine());
             var t2 = int.Parse(Console.ReadLine());
